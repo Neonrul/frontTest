@@ -4,7 +4,7 @@
 #### `npm start`
 или
 #### `yarn run start`
-в каталоге со скачанным проектом.<br/>
+в корне проекта.<br/>
 Откройте [http://localhost:3000](http://localhost:3000) для его просмотра в браузере.<br/>
 <br/>
 Ссылка на готовый build проекта:  [front-test](https://neonrul.github.io/frontTest/). <br/>
