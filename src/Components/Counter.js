@@ -3,7 +3,8 @@ import style from './Counter.module.css'
 
 const Counter = ({count, changeCount}) => {
     const changeValue = (e) => {
-        changeCount(e.currentTarget.value)
+        let value = e.currentTarget.value.replace(/[^\d]/g,'')
+           return changeCount(value)
     }
     return (
         <div className={style.counter}>
