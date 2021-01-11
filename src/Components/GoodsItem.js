@@ -86,9 +86,7 @@ const GoodsItem = ({
                 <div className={style.counter}>
                     <Counter count={count} changeCount={changeCount}/>
                 </div>
-                <button data-product-id={productId} onClick={() => {
-                    changeCount(1)
-                }}>
+                <button data-product-id={productId} onClick={() => {changeCount(1)}}>
                     <span className={style.sprite}>{''}</span>
                     <span>В корзину</span>
                 </button>
