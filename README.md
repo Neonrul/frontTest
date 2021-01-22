@@ -6,8 +6,9 @@
 #### `yarn run start`
 в корне проекта.<br/>
 Откройте [http://localhost:3000](http://localhost:3000) для его просмотра в браузере.<br/>
-<br/>
-Ссылка на готовый build проекта:  [front-test](https://neonrul.github.io/frontTest/). <br/>
+***
+Ссылка на готовый build проекта на ghpages: ___[front-test](https://neonrul.github.io/frontTest/). <br/>___
+
 
 Для отображения списка товаров необходимо нажать на <br/>
 #### `Goods MENU.`
